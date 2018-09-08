@@ -9,7 +9,7 @@ namespace ParsePoem
     public partial class ParsePoem : Form
     {
 
-        private bool _hasMultipleStanzas = false;
+        private bool _hasMultipleStanzas = true;
 
         public ParsePoem()
         {
