@@ -14,7 +14,7 @@ namespace ParsePoem
         public ParsePoem()
         {
             InitializeComponent();
-            btnCopyToClipboard.Enabled = false;
+            btnCopyToClipboard.Enabled = true;
         }
 
         private void btnPoemToHTML_Click(object sender, EventArgs e)
